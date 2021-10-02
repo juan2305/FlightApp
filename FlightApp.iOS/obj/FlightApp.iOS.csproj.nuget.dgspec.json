@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj": {}
+    "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj": {
+    "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj",
         "projectName": "FlightApp.iOS",
-        "projectPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\fuert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fuert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alejandro Ogando\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj": {
-                "projectPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj"
+              "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj": {
+                "projectPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
         }
       }
     },
-    "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj": {
+    "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj",
+        "projectUniqueName": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj",
         "projectName": "FlightApp",
-        "projectPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj",
-        "packagesPath": "C:\\Users\\fuert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\obj\\",
+        "projectPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj",
+        "packagesPath": "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fuert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alejandro Ogando\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -114,6 +114,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

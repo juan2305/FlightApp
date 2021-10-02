@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tjKJ/fILMlYyPjmGx2vuisF/2w4qeom8x4s1mm/c0G1MvfwR1tctN6XwX+qWiDREYJRicaWTYHm0p5NwGkme0g==",
+  "dgSpecHash": "LJrLbrv5dg/sLEKscjKQJ99c8SHKE8G5m3UW0vPTbZwFrGDDQhWfv5HZ5PQ84CWc3ygfjdmxG34t/WY9qyHEOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.Android\\FlightApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.Android\\FlightApp.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fuert\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
