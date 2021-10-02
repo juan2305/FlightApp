@@ -14,7 +14,7 @@
                   ItemsSource="{Binding Data}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="Juan Pablo" Detail="{Binding DepartDate}"/>
+                    <TextCell Text="{Binding DataResume}" Detail="{Binding DepartDate}"/>
 
                 </DataTemplate>
             </ListView.ItemTemplate>
