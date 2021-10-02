@@ -991,18 +991,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\": {},
+    "C:\\Users\\fuert\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj",
       "projectName": "FlightApp.iOS",
-      "projectPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\fuert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1010,7 +1010,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alejandro Ogando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fuert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj": {
-              "projectPath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp\\FlightApp.csproj"
+            "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj": {
+              "projectPath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp\\FlightApp.csproj"
             }
           }
         }

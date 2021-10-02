@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QYZFZTjj/tpPPjRylJGu5Mcs4sEXCGgDTDnBBnXEzUofwYvCEcj0oZUJSx4ke/7qBfOHgJMeBTW3FBngmHHMrA==",
+  "dgSpecHash": "CpDtWWZN/1BELMHLDDQ6Vqh52MTXyaLDBNIxl3KciETN9vEGS1geE0BEBHgUm0JcmXnQhvVWCmXF/0+616h38A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alejandro Ogando\\source\\repos\\FlightApp\\FlightApp.iOS\\FlightApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\fuert\\source\\repos\\NewRepo2\\FlightApp.iOS\\FlightApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alejandro Ogando\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\fuert\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
