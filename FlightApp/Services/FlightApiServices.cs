@@ -15,8 +15,8 @@ namespace FlightApp.Services
         public async Task<FlightResponse> GetFlightInfoAsync()
         {
             HttpClient httpClient = new HttpClient();
-            var response = await httpClient.GetAsync(Config.ApiUrl);
-            
+            var response = await httpClient.GetAsync(Config.FlightUrl);
+
             if (response.IsSuccessStatusCode)
             {
                 var responseString = await response.Content.ReadAsStringAsync();
